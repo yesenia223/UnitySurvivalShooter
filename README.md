@@ -19,8 +19,8 @@ Hellaphants, zombunnies, zombears </p>
 <br></br>
 
 <p>
-Buckets!!!!!!!!!!!!!! :banana: </p>
-![Alt text] (https://github.com/yesenia223/UnitySurvivalShooter/blob/master/Screenshots/hellaphant.png)
+Buckets!!!!!!!!!!!!!! :smile: </p>
+![Alt text] (https://github.com/yesenia223/UnitySurvivalShooter/blob/master/Screenshots/bukets.png)
 <br></br>
 
 
