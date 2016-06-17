@@ -1,6 +1,8 @@
 # Survival Shooter :cyclone:
 <p>
 created by Yesenia Bastian Parra :exclamation::exclamation:</p>
+<b> _Norwalk High School_</b> :school: - <b>Project Lead The Way (PLTW) Computer Science</b><br>
+<b>_Class_:</b> Computer Science Application (CSA) - 2nd year (Sophomore)<br>
 <p> This is a game where the player chooses to shoot enemies such as zombunnies, hellaphants, and zombear. </p>
 
 <p> 
