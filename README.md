@@ -11,4 +11,11 @@ The character can shoot from the gun when you click on the right side of the mou
 <p>
 The player near a zombear. </p>
 ![Alt text] (https://github.com/yesenia223/UnitySurvivalShooter/blob/master/Screenshots/zombears.png)
+<br></br>
+
+<p>
+Hellaphants, zombunnies, zombears </p>
+![Alt text] (https://github.com/yesenia223/UnitySurvivalShooter/blob/master/Screenshots/zombears.png)
+<br></br>
+
 
