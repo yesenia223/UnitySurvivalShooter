@@ -15,7 +15,7 @@ The player near a zombear. </p>
 
 <p>
 Hellaphants, zombunnies, zombears </p>
-![Alt text] (https://github.com/yesenia223/UnitySurvivalShooter/blob/master/Screenshots/zombears.png)
+![Alt text] (https://github.com/yesenia223/UnitySurvivalShooter/blob/master/Screenshots/hellaphant.png)
 <br></br>
 
 
