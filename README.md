@@ -4,7 +4,7 @@ created by Yesenia Bastian Parra :exclamation::exclamation:</p>
 <p> This is a game where the player chooses to shoot enemies such as zombunnies, hellaphants, and zombear. </p>
 
 <p> 
-The character can shoot from the gun when you click on the right side of the mouse. </p>
+The character can shoot from the gun when you click on the right side of the mouse. :star:</p>
 ![Alt text] (https://github.com/yesenia223/UnitySurvivalShooter/blob/master/Screenshots/Survival.png)
 <br></br>
 
