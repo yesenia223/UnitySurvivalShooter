@@ -9,6 +9,6 @@ The character can shoot from the gun when you click on the right side of the mou
 <br></br>
 
 <p>
-The player near a zombunny. </p>
+The player near a zombear. </p>
 ![Alt text] (https://github.com/yesenia223/UnitySurvivalShooter/blob/master/Screenshots/zombears.png)
 
